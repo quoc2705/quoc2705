@@ -35,7 +35,7 @@ Tôi tin rằng **học liên tục** và **làm đi làm lại** là cách tố
 |----------|-----------|
 | **Frontend** | HTML · CSS · JavaScript · React |
 | **Backend** | Node.js *(đang học & mở rộng)* |
-| **Tools** | Git · GitHub · VS Code · Figma |
+| **Tools** | Cursor· Git · GitHub · VS Code · Figma  |
 
 ---
 
