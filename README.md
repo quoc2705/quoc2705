@@ -41,16 +41,6 @@ Tôi tin rằng **học liên tục** và **làm đi làm lại** là cách tố
 
 
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=quoc2705&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
-
-</div>
-
----
-
 ## 💬 Một chút về tôi
 
 ```text
